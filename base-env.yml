@@ -1,8 +1,11 @@
 name: cellpose-deephyper
 channels:
+  - pytorch
+  - nvidia
   - conda-forge
 dependencies:
   - python=3.10.*
   - mamba
   - pip
   - poetry
+  - pytorch::pytorch=2.1.1

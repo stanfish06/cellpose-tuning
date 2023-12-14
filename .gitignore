@@ -1,0 +1,9 @@
+*.txt
+*.gif
+*.tif
+*.tiff
+*.png
+*.npy
+private/
+bfmatlab.zip
+*.zip
