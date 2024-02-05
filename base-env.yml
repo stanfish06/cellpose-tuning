@@ -9,3 +9,4 @@ dependencies:
   - pip
   - poetry
   - pytorch::pytorch=2.1.1
+  - stan
